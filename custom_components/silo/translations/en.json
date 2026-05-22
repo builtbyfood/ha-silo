@@ -1,0 +1,25 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "SiLO",
+        "description": "Connect to a server's iLO via the Redfish API. Use a read-only iLO account.",
+        "data": {
+          "host": "iLO host or IP",
+          "username": "iLO username",
+          "password": "iLO password",
+          "verify_ssl": "Verify SSL certificate",
+          "scan_interval": "Polling interval (seconds)"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Authentication failed - check the iLO username and password.",
+      "cannot_connect": "Could not reach the iLO Redfish API at that address.",
+      "unknown": "Unexpected error - see the logs."
+    },
+    "abort": {
+      "already_configured": "This iLO is already configured."
+    }
+  }
+}
