@@ -12,7 +12,7 @@ servers managed by **iLO 5 / iLO 6**.
 This component talks to the modern Redfish REST API directly, so it works on Gen10/Gen11
 hardware where the old approach is dead.
 
-![Device page](images/device.png)
+![Device page](images/screenshots/device.png)
 
 ## Why this exists
 
