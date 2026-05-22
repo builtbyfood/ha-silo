@@ -1,9 +1,7 @@
 {
   "domain": "silo",
   "name": "SiLO",
-  "codeowners": [
-    "@builtbyfood"
-  ],
+  "codeowners": ["@builtbyfood"],
   "config_flow": true,
   "documentation": "https://github.com/builtbyfood/ha-silo",
   "integration_type": "device",
