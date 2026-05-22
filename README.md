@@ -34,11 +34,11 @@ session-token auth so it doesn't exhaust the iLO's session pool.
 
 | Search | Setup |
 | --- | --- |
-| ![Search](images/search-silo.png) | ![Setup](images/setup.png) ![Setup2] (images/setup-filled.png) ![Name] (images/naming.png) |
+| ![Search](images/search-silo.png) | ![Setup](images/setup.png) ![Setup2](images/setup-filled.png) ![Name](images/naming.png) |
 
 | Device page | Dashboard card |
 | --- | --- |
-| ![Device](images/device.png) | ![Card1](images/added1.png) ![Card2] (images/added2.png) |
+| ![Device](images/device.png) | ![Card1](images/added1.png) ![Card2](images/added2.png) |
 
 
 ## Entities
