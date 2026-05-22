@@ -1,5 +1,4 @@
-# SiLO for Home Assistant
-Your HPE iLO fleet in home assistant
+![SiLO for Home Assistant Your HPE iLO fleet in home assistant](images/banner.svg)
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub release](https://img.shields.io/github/v/release/builtbyfood/ha-silo)](https://github.com/builtbyfood/ha-silo/releases)
