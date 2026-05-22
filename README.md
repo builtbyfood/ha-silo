@@ -1,4 +1,5 @@
 # SiLO for Home Assistant
+Your HPE iLO fleet in home assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub release](https://img.shields.io/github/v/release/builtbyfood/ha-silo)](https://github.com/builtbyfood/ha-silo/releases)
@@ -31,9 +32,14 @@ session-token auth so it doesn't exhaust the iLO's session pool.
 
 ## Screenshots
 
+| Search | Setup |
+| --- | --- |
+| ![Search](images/search-silo.png) | ![Setup](images/setup.png) ![Setup2] (images/setup-filled.png) ![Name] (images/naming.png) |
+
 | Device page | Dashboard card |
 | --- | --- |
-| ![Device](images/device.png) | ![Card](images/dashboard-card.png) |
+| ![Device](images/device.png) | ![Card1](images/added1.png) ![Card2] (images/added2.png) |
+
 
 ## Entities
 

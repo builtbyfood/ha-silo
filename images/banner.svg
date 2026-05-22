@@ -1,25 +1,47 @@
-<svg width="960" height="200" viewBox="0 0 960 260" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="360" height="198" rx="28" fill="#0a1322"/>
-  <g transform="translate(10,30) scale(0.78125)">
-    <rect x="6" y="6" width="244" height="180" rx="56" fill="#0a1322"/>
-    <rect x="58" y="66" width="140" height="10" rx="3" fill="#2c3a3d"/>
-    <rect x="66" y="60" width="10" height="8" fill="#3a4a4d"/><rect x="120" y="60" width="10" height="8" fill="#3a4a4d"/><rect x="180" y="60" width="10" height="8" fill="#3a4a4d"/>
-    <rect x="58" y="28" width="140" height="124" rx="9" fill="#2f3d40"/>
-    <rect x="58" y="28" width="140" height="124" rx="9" fill="none" stroke="#01a982" stroke-width="3"/>
-    <rect x="70" y="42" width="116" height="22" rx="3" fill="#19211f"/><circle cx="80" cy="103" r="4" fill="#01a982"/><rect x="94" y="100" width="80" height="6" rx="2" fill="#3c4a4c"/>
-    <rect x="70" y="70" width="116" height="22" rx="3" fill="#19211f"/><circle cx="80" cy="131" r="4" fill="#01a982"/><rect x="94" y="128" width="80" height="6" rx="2" fill="#3c4a4c"/>
-    <rect x="70" y="98" width="116" height="22" rx="3" fill="#19211f"/><circle cx="80" cy="159" r="4" fill="#c9a13a"/><rect x="94" y="156" width="80" height="6" rx="2" fill="#3c4a4c"/>
-    <rect x="70" y="126" width="60" height="18" rx="3" fill="#19211f"/><rect x="78" y="132" width="9" height="5" fill="#3c4a4c"/><rect x="92" y="132" width="9" height="5" fill="#3c4a4c"/><rect x="106" y="132" width="9" height="5" fill="#3c4a4c"/>
-    <circle cx="166" cy="135" r="6" fill="#01a982"/>
+<svg width="360" height="200" viewBox="0 0 360 200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="360" height="202" rx="28" fill="
+#0a1322"/>
+  <g transform="translate(20,10) scale(0.68125)">
+    <rect x="6" y="6" width="244" height="244" rx="56" fill="
+#0a1322"/>
+    <rect x="58" y="66" width="140" height="10" rx="3" fill="
+#2c3a3d"/>
+    <rect x="66" y="60" width="10" height="8" fill="
+#3a4a4d"/><rect x="120" y="60" width="10" height="8" fill="
+#3a4a4d"/><rect x="180" y="60" width="10" height="8" fill="
+#3a4a4d"/>
+    <rect x="58" y="78" width="140" height="124" rx="9" fill="
+#2f3d40"/>
+    <rect x="58" y="78" width="140" height="124" rx="9" fill="none" stroke="
+#01a982" stroke-width="3"/>
+    <rect x="70" y="92" width="116" height="22" rx="3" fill="
+#19211f"/><circle cx="80" cy="103" r="4" fill="
+#01a982"/><rect x="94" y="100" width="80" height="6" rx="2" fill="
+#3c4a4c"/>
+    <rect x="70" y="120" width="116" height="22" rx="3" fill="
+#19211f"/><circle cx="80" cy="131" r="4" fill="
+#01a982"/><rect x="94" y="128" width="80" height="6" rx="2" fill="
+#3c4a4c"/>
+    <rect x="70" y="148" width="116" height="22" rx="3" fill="
+#19211f"/><circle cx="80" cy="159" r="4" fill="
+#c9a13a"/><rect x="94" y="156" width="80" height="6" rx="2" fill="
+#3c4a4c"/>
+    <rect x="70" y="176" width="60" height="18" rx="3" fill="
+#19211f"/><rect x="78" y="182" width="9" height="5" fill="
+#3c4a4c"/><rect x="92" y="182" width="9" height="5" fill="
+#3c4a4c"/><rect x="106" y="182" width="9" height="5" fill="
+#3c4a4c"/>
+    <circle cx="166" cy="185" r="6" fill="
+#01a982"/>
     <path d="M150 26 L182 26 L168 64 L164 64 Z" fill="#41bdf5" fill-opacity="0.16"/>
     <path d="M161 26 L171 26 L167 64 L165 64 Z" fill="#41bdf5" fill-opacity="0.55"/>
     <path d="M156 60 q10 -12 20 0 l-3 16 q-7 5 -14 0 z" fill="#cfe9ff"/>
     <path d="M156 60 q10 -12 20 0 l-3 16 q-7 5 -14 0 z" fill="none" stroke="#41bdf5" stroke-width="2.5"/>
         <rect x="161" y="28" width="10" height="6" rx="2" fill="#41bdf5"/>
   </g>
-    <text x="175" y="93" font-family="DejaVu Sans, Arial, sans-serif" font-size="54" font-weight="700" fill="#f4f7fb">SiL</text>
+    <text x="173" y="93" font-family="DejaVu Sans, Arial, sans-serif" font-size="54" font-weight="700" fill="#f4f7fb">SiL</text>
   <circle cx="273" cy="73" r="20" fill="none" stroke="#41bdf5" stroke-width="6"/>
   <circle cx="273" cy="73" r="6" fill="#41bdf5"/>
-  <text x="175" y="124" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#8a97ad">Your HPE iLO fleet</text>
-    <text x="178" y="144" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#8a97ad">in home assistant</text>
+  <text x="170" y="124" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#8a97ad">Your HPE iLO fleet</text>
+    <text x="173" y="144" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#8a97ad">in home assistant</text>
 </svg>
